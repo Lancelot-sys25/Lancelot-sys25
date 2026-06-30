@@ -100,9 +100,9 @@ A scientific research prototype for classifying non-functional requirements with
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lancelot-sys25&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
+<img src="https://github-readme-stats.vercel.app/api?username=Lancelot-sys25&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lancelot-sys25&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lancelot-sys25&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 
 </div>
 ---
