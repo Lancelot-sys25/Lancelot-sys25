@@ -1,6 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,55:1d4ed8,100:2563eb&text=NGUYEN%20HOANG%20PHUC&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20.NET%20%2B%20Next.js%20%7C%20Applied%20AI%20Research&descSize=17&descAlignY=56&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,55:1d4ed8,100:2563eb&text=NGUYEN%20HOANG%20PHUC&fontColor=ffffff&fontSize=48&fontAlignY=40&animation=fadeIn)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;.NET+%2B+Next.js+Developer;Applied+AI+Research;Building+Full-stack+Projects" alt="Typing SVG" />
 
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lancelot-sys25)
 [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
