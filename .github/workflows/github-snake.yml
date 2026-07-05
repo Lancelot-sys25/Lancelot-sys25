@@ -18,7 +18,7 @@ jobs:
           github_user_name: Lancelot-sys25
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#a855f7&color_dots=#0b1220,#00ff88,#00e676,#00c853,#39ff14
 
       - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v4
